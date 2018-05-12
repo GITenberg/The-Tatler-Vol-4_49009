@@ -1,4 +1,5 @@
 _repo: The-Tatler-Vol-4_49009
+_version: 0.1.0
 contributor:
   creator:
     editor:
@@ -8,11 +9,14 @@ contributor:
       deathdate: 1917
       gutenberg_agent_id: '5169'
       url: http://www.gutenberg.org/2009/agents/5169
+covers:
+- cover_type: archival
+  image_path: 49009-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Addison, Joseph
     alias: Bickerstaff, Isaac
-    birthdate: &id001 1672
+    birthdate: 1672
     deathdate: 1719
     gutenberg_agent_id: '1024'
     url: http://www.gutenberg.org/2009/agents/1024
@@ -22,12 +26,14 @@ creator:
     - Steele, R. (Richard), Sir
     - Edgar, John, Sir
     - Bickerstaff, Isaac
-    birthdate: *id001
+    birthdate: 1672
     deathdate: 1729
     gutenberg_agent_id: '984'
     url: http://www.gutenberg.org/2009/agents/984
     wikipedia: http://en.wikipedia.org/wiki/Richard_Steele
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49009#The-Tatler-Vol-4
 gutenberg_issued: '2015-05-21'
 gutenberg_type: Text
 identifiers:
